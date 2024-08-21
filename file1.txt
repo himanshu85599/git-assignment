@@ -1,12 +1,2 @@
 good morning india
-<<<<<<< HEAD
-
-
-
-
-
-
-
-=======
 i love my world
->>>>>>> f2
