@@ -1,4 +1,5 @@
 good morning india
+<<<<<<< HEAD
 
 
 
@@ -6,3 +7,6 @@ good morning india
 
 
 
+=======
+i love my world
+>>>>>>> f2
